@@ -14,6 +14,7 @@ cask "repomancer" do
   auto_updates true
   conflicts_with cask: "repomancer@tip"
   depends_on macos: ">= :ventura"
+  depends_on formula: "gh"
 
   app "Repomancer.app"
   binary "#{appdir}/Repomancer.app/Contents/MacOS/repomancer"
