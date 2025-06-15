@@ -1,4 +1,4 @@
-# Repomancer Repomancer
+# Repomancer
 
 ## How do I install these formulae?
 
