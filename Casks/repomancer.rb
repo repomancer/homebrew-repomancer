@@ -1,6 +1,6 @@
 cask "repomancer" do
-  version "0.0.2"
-  sha256 "12f674884e82e569ddaa08b73a90348e9af333ce7e5555ee108e5df1939ea606"
+  version "0.0.3"
+  sha256 "211e499b4f60184ebafef33bba3282d8e86fde3b00fd326ac1b9ef7898e61b29"
   url "https://github.com/repomancer/repomancer/releases/download/v#{version}/Repomancer-#{version}-Darwin-arm64.dmg"
   name "Repomancer"
   desc "Manage mass changes across repositories"
